@@ -1,6 +1,6 @@
 # T g
  
  gg
-ggg
+gggg
 g
 gg
