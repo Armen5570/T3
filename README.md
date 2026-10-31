@@ -1,5 +1,5 @@
 gg# T g
- 
+ g
  gg
 ggggg
 gg
