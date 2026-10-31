@@ -2,6 +2,6 @@
  
  gg
 ggggg
-g
+gg
 gg
 g
