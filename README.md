@@ -1,6 +1,1 @@
 # T      
-hello
-bye
-gr
-   
- 
