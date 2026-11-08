@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 վբ # T 
 »
  ղց
@@ -8,4 +9,7 @@
  
 =======
 # Tasdasd hello
+>>>>>>> Stashed changes
+=======
+hello all
 >>>>>>> Stashed changes
