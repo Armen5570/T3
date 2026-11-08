@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-Pair Extraordinaire TEST
-=======
-Pair Extraordinaire TEST հելլօ hello
->>>>>>> Stashed changes
-Pair Extraordinaire 
-Collaborative contribution
